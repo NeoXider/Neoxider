@@ -22,8 +22,9 @@
   
   </td>
 </tr>
- <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=neoxider\&layout=compact'/>
 </table>
+ <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=neoxider\&layout=compact'/>
+
 <!--- stats (end) -->
 
 
